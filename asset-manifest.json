@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/slidingpuzzle/static/css/main.e6034b45.css",
+    "main.js": "/slidingpuzzle/static/js/main.bca4dd53.js",
+    "static/js/787.28cb0dcd.chunk.js": "/slidingpuzzle/static/js/787.28cb0dcd.chunk.js",
+    "static/media/puzzle-image.jpg": "/slidingpuzzle/static/media/puzzle-image.8dfc7e73a7e9b888061c.jpg",
+    "index.html": "/slidingpuzzle/index.html",
+    "main.e6034b45.css.map": "/slidingpuzzle/static/css/main.e6034b45.css.map",
+    "main.bca4dd53.js.map": "/slidingpuzzle/static/js/main.bca4dd53.js.map",
+    "787.28cb0dcd.chunk.js.map": "/slidingpuzzle/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6034b45.css",
+    "static/js/main.bca4dd53.js"
+  ]
+}
